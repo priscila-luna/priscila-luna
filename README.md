@@ -1,8 +1,8 @@
 ### Olá eu sou a Priscila Luna 👋
 
-- 🔭 Atualmente trabalho com back-end
-- 🌱 Estudo Análise e desenvolvimento de sistemas na FIAP
-- 😄 Pronouns: Ela/dela
+- 👩‍ 💻 Desenvolvendo em back e front-end.
+- 🌱 Estudo Análise e desenvolvimento de sistemas na FIAP.
+- 😄 Pronomes: Ela/dela.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
