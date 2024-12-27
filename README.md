@@ -1,7 +1,7 @@
 ### Olá eu sou a Priscila Luna 👋
 
 - 👩‍ 💻 Desenvolvendo em back e front-end.
-- 🌱 Estudo Análise e desenvolvimento de sistemas na FIAP.
+- 🌱 Formada em Análise e desenvolvimento de sistemas pela FIAP.
 - 😄 Pronomes: Ela/dela.
 
 <div align="center">
